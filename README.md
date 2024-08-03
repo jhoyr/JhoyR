@@ -1,4 +1,4 @@
-## Opa! Eu sou o Jhoy Rodrigues 👋
+## Opa! Eu sou o Jhoy 👋
 <div>
   <a href="https://github.com/jhoyr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoyr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
