@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Jhoy 👋
 <div>
   <a href="https://github.com/jhoyr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoyr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoyr&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoyr&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
@@ -24,7 +24,7 @@
 ### Frameworks
 <div> 
   <img align="center" alt="Jhoy-Dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" >
-  <img align="center" alt="Jhoy-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" >
+  <img align="center" alt="Jhoy-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" >
   <img align="center" alt="Jhoy-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" >
   <img align="center" alt="Jhoy-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" >
 
